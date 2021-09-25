@@ -1,1 +1,2 @@
 # Deep_Learning_DNA_Competition
+In this competition we are given sequences of DNA (in trian_features.csv and test_features.csv) and labels of the corresponding species (in train_labels.csv). The goal is to make a model that can predict the species of an animial given a DNA sequence. This project implemented 5 different deep learning techiques solving the problem. They are all in a single file called DNAclassification.ipynb.
